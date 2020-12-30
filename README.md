@@ -10,11 +10,11 @@ Ou se preferir, veja as aulas separadamente.
 
 ## Menu
 
-[Aula 0](#Aula 0)
+[Aula 0](#aula-0)
 
-[Aula 1](#Aula 1)
+[Aula 1](#aula-1)
 
-[Aula 2](#aula2)
+[Aula 2](#aula-2)
 
 ## Aula 0
 Aula introdutória criando o primeiro programa.
