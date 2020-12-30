@@ -3,7 +3,7 @@ Repositório para as aulas disponíveis na playlist do YouTube.
  
 Playlist: https://www.youtube.com/channel/UCbPFdBr51_a_P_vM8z6Vu4w
 
-##Aula 0
+## Aula 0
 Aula introdutória criando o primeiro programa.
 
 Link: https://www.youtube.com/watch?v=WeC9UinkUGE
@@ -13,7 +13,7 @@ Link: https://www.youtube.com/watch?v=WeC9UinkUGE
 * System.out.println
 * Tipos de dados
 
-##Aula 1
+## Aula 1
 
 Segunda aula abordando mais sobre tipos de dados e afins.
 
@@ -24,7 +24,7 @@ Link: https://www.youtube.com/watch?v=jNffd0jwzY8
 * Entrada e saída
 * Programa: conversas
 
-##Aula 2
+## Aula 2
 
 Terceira aula com foco em operadores.
 
@@ -36,7 +36,7 @@ Link: https://www.youtube.com/watch?v=VboGB3PgWWo
 * Relacionais
 * Lógicos
 
-##Aula 3
+## Aula 3
 
 Quarta aula sobre condicionais.
 
@@ -47,7 +47,7 @@ Link: https://www.youtube.com/watch?v=2BDtTHE8E0c
 * if - else if - else
 * switch
 
-##Aula 4
+## Aula 4
 
 Quinta aula sobre Loops.
 
@@ -58,7 +58,7 @@ Link: https://www.youtube.com/watch?v=JmzSc77kZqk
 * for(ini; condicao; incr)
 * for(elemento em ...)
 
-##Aula 5
+## Aula 5
 
 Sexta aula sobre classes, objetos e métodos.
 
@@ -71,6 +71,6 @@ Link: https://www.youtube.com/watch?v=gVxS-C0Yykw
 * Modificadores de um método
 * Métodos e retorno
 
-##Aula 6
+## Aula 6
 
 
