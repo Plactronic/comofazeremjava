@@ -6,7 +6,17 @@ Este repositório será usado para as aulas disponíveis na playlist do YouTube 
  
 Playlist: https://www.youtube.com/channel/UCbPFdBr51_a_P_vM8z6Vu4w
 
-## Aula 0
+Ou se preferir, veja as aulas separadamente.
+
+## Menu
+
+[Aula_0](#Aula 0)
+
+[Aula_1](#Aula_1)
+
+[Aula 2](#aula2)
+
+## Aula_0
 Aula introdutória criando o primeiro programa.
 
 Link: https://www.youtube.com/watch?v=WeC9UinkUGE
@@ -16,7 +26,7 @@ Link: https://www.youtube.com/watch?v=WeC9UinkUGE
 * System.out.println
 * Tipos de dados
 
-## Aula 1
+## Aula_1
 
 Aula abordando mais sobre tipos de dados e afins.
 
