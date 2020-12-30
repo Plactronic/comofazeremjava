@@ -1,4 +1,4 @@
-# Como fazer em Java
+# Como fazer em Java![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)
 
 Olá, aqui é o Plactronic!
 
@@ -10,11 +10,13 @@ Ou se preferir, veja as aulas separadamente.
 
 ## Menu
 
-[Aula 0](#aula-0)
-
-[Aula 1](#aula-1)
-
-[Aula 2](#aula-2)
+* [Aula 0](#aula-0)
+* [Aula 1](#aula-1)
+* [Aula 2](#aula-2)
+* [Aula 3](#aula-3)
+* [Aula 4](#aula-4)
+* [Aula 5](#aula-5)
+* [Aula 6](#aula-6)
 
 ## Aula 0
 Aula introdutória criando o primeiro programa.
