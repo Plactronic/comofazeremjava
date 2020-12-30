@@ -1,5 +1,8 @@
 # Como fazer em Java
-Repositório para as aulas disponíveis na playlist do YouTube.
+
+Olá, aqui é o Plactronic!
+
+Este repositório será usado para as aulas disponíveis na playlist do YouTube "Como fazer em Java".
  
 Playlist: https://www.youtube.com/channel/UCbPFdBr51_a_P_vM8z6Vu4w
 
@@ -15,7 +18,7 @@ Link: https://www.youtube.com/watch?v=WeC9UinkUGE
 
 ## Aula 1
 
-Segunda aula abordando mais sobre tipos de dados e afins.
+Aula abordando mais sobre tipos de dados e afins.
 
 Link: https://www.youtube.com/watch?v=jNffd0jwzY8
 
@@ -26,7 +29,7 @@ Link: https://www.youtube.com/watch?v=jNffd0jwzY8
 
 ## Aula 2
 
-Terceira aula com foco em operadores.
+Aula com foco em operadores.
 
 Link: https://www.youtube.com/watch?v=VboGB3PgWWo
 
@@ -38,7 +41,7 @@ Link: https://www.youtube.com/watch?v=VboGB3PgWWo
 
 ## Aula 3
 
-Quarta aula sobre condicionais.
+Aula sobre condicionais.
 
 Link: https://www.youtube.com/watch?v=2BDtTHE8E0c
 
@@ -49,7 +52,7 @@ Link: https://www.youtube.com/watch?v=2BDtTHE8E0c
 
 ## Aula 4
 
-Quinta aula sobre Loops.
+Aula sobre Loops.
 
 Link: https://www.youtube.com/watch?v=JmzSc77kZqk
 
@@ -60,7 +63,7 @@ Link: https://www.youtube.com/watch?v=JmzSc77kZqk
 
 ## Aula 5
 
-Sexta aula sobre classes, objetos e métodos.
+Aula sobre classes, objetos e métodos.
 
 Link: https://www.youtube.com/watch?v=gVxS-C0Yykw
 
