@@ -1,5 +1,3 @@
-package aula6;
-
 public class JogoDaVelha {
     public static void main(String[] args){
         System.out.println("**** JOGO DA VELHA ****");
@@ -25,8 +23,8 @@ public class JogoDaVelha {
         while(!jogo.isFinalizado()){
             jogo.turno(jogo.getJ1());
             jogo.turno(jogo.getJ2());
-            jogo.setFinalizado(true);
         }
+
         System.out.println("**** FIM DE JOGO ****");
     }
 }
@@ -38,7 +36,6 @@ class Jogo{
     private Tabuleiro tabuleiro;
     private Jogador jDaVez;
 
-
     public void turno(Jogador j){
         System.out.println("Turno do jogador: " + j.getNome());
         setjDaVez(j);
@@ -47,27 +44,32 @@ class Jogo{
 
         while(!jogadaValida){
             int jogada = new java.util.Scanner( System.in ).nextInt();
+            while(jogada < 0 || jogada > 8){
+                System.out.println("Somente campos de 0 a 8 sao permitidos");
+                System.out.println("Entre novamente com o valor do campo desejado:");
+                jogada = new java.util.Scanner( System.in ).nextInt();
+            }
             switch(jogada){
                 case 0:
                     jogadaValida = getTabuleiro().getC0().setXouO(j.getXouO());
                     break;
                 case 1:
-                    jogadaValida =getTabuleiro().getC1().setXouO(j.getXouO());
+                    jogadaValida = getTabuleiro().getC1().setXouO(j.getXouO());
                     break;
                 case 2:
                     jogadaValida = getTabuleiro().getC2().setXouO(j.getXouO());
                     break;
                 case 3:
-                    jogadaValida =getTabuleiro().getC3().setXouO(j.getXouO());
+                    jogadaValida = getTabuleiro().getC3().setXouO(j.getXouO());
                     break;
                 case 4:
-                    jogadaValida =getTabuleiro().getC4().setXouO(j.getXouO());
+                    jogadaValida = getTabuleiro().getC4().setXouO(j.getXouO());
                     break;
                 case 5:
                     jogadaValida = getTabuleiro().getC5().setXouO(j.getXouO());
                     break;
                 case 6:
-                    jogadaValida =getTabuleiro().getC6().setXouO(j.getXouO());
+                    jogadaValida = getTabuleiro().getC6().setXouO(j.getXouO());
                     break;
                 case 7:
                     jogadaValida = getTabuleiro().getC7().setXouO(j.getXouO());
@@ -75,13 +77,16 @@ class Jogo{
                 case 8:
                     jogadaValida = getTabuleiro().getC8().setXouO(j.getXouO());
                     break;
+                default:
+                    setFinalizado(true);
+                    jogadaValida = true;
             }
             getTabuleiro().getTabuleiroAtual();
         }
     }
 
     private void mostreTabuleiro(){
-        System.out.println("Escolha uma posicao no tabuleiro");
+        System.out.println("Escolha uma posicao no tabuleiro.");
         System.out.println("0|1|2");
         System.out.println("3|4|5");
         System.out.println("6|7|8");
@@ -143,7 +148,7 @@ class Jogo{
     }
 
     public boolean isFinalizado() {
-        return finalizado;
+        return this.finalizado;
     }
 
     public void setFinalizado(boolean finalizado) {
