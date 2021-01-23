@@ -92,9 +92,9 @@ Link: https://www.youtube.com/watch?v=gVxS-C0Yykw
 
 Aula dividida em duas partes para constuir um jogo da velha usando o que vimos até agora.
 
-Link Parte 1:
+Link Parte 1: https://www.youtube.com/watch?v=PTIVRQfDVAw
 
-Link Parte 2:
+Link Parte 2: https://www.youtube.com/watch?v=GvqU0R1o_hA
 
 * Parte 1: Jogo da Velha (Jogador, Campo, Tabuleiro e Jogo)
 * Parte 2: Lógica
@@ -103,6 +103,8 @@ Link Parte 2:
 
 Aula sobre pacotes e importes
 
+Link: https://www.youtube.com/watch?v=T-mb9X1WLZI
+
 * O que é um pacote
 * Como importar
 * Nao reinventar a roda
@@ -110,6 +112,8 @@ Aula sobre pacotes e importes
 ## Aula 8
 
 Aula sobre referências, null e igualdades
+
+Link: https://www.youtube.com/watch?v=o8v-kDX2QQs
 
 * O que é uma referência
 * A referência null
