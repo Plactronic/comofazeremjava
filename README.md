@@ -17,6 +17,8 @@ Ou, se preferir, veja as aulas separadamente.
 * [Aula 4](#aula-4)
 * [Aula 5](#aula-5)
 * [Aula 6](#aula-6)
+* [Aula 7](#aula-7)
+* [Aula 8](#aula-8)
 
 ## Aula 0
 Aula introdutória criando o primeiro programa.
@@ -88,7 +90,7 @@ Link: https://www.youtube.com/watch?v=gVxS-C0Yykw
 
 ## Aula 6
 
-Aula dividia em duas partes para constuir um jogo da velha usando o que vimos até agora.
+Aula dividida em duas partes para constuir um jogo da velha usando o que vimos até agora.
 
 Link Parte 1:
 
@@ -97,3 +99,18 @@ Link Parte 2:
 * Parte 1: Jogo da Velha (Jogador, Campo, Tabuleiro e Jogo)
 * Parte 2: Lógica
 
+## Aula 7
+
+Aula sobre pacotes e importes
+
+* O que é um pacote
+* Como importar
+* Nao reinventar a roda
+
+## Aula 8
+
+Aula sobre referências, null e igualdades
+
+* O que é uma referência
+* A referência null
+* Igualdade entre objetos
