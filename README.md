@@ -19,6 +19,8 @@ Ou, se preferir, veja as aulas separadamente.
 * [Aula 6](#aula-6)
 * [Aula 7](#aula-7)
 * [Aula 8](#aula-8)
+* [Aula 9](#aula-9)
+* [Aula 10](#aula-10)
 
 ## Aula 0
 Aula introdutória criando o primeiro programa.
@@ -118,3 +120,25 @@ Link: https://www.youtube.com/watch?v=o8v-kDX2QQs
 * O que é uma referência
 * A referência null
 * Igualdade entre objetos
+
+## Aula 9
+
+Aula sobre vetores (arrays)
+
+Link: https://youtu.be/lzwz_e-78mA
+
+* O que é um vetor
+* Como declarar
+* Como preencher e percorrer
+
+## Aula 10
+
+Aula sobre vetores (arrays) multidimensionais
+
+Link parte 1: https://youtu.be/6piHqbOhY3Y
+Link parte 2: https://youtu.be/BAgVpKWP2lQ 
+
+* O que é um vetor multidimensional
+* Como declarar
+* Como percorrer
+* Exemplo prático com um tabuleiro de xadrez
